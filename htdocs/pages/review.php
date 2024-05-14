@@ -120,7 +120,7 @@
             <div class="col-10 d-flex align-items-center">
                 <h3 class="me-5"><?=$tourOperator[0]->getName()?> -- Noté <?=$score->getValue()?>/5</h3>
                 <p></p>
-                <a href="../pages/agenceList.php"><button class="btn btn-outline-light">Voir le tour operateur</button></a>
+                <a href=""><button class="btn btn-outline-light">Voir le tour operateur</button></a>
             </div>
         
         </section>
